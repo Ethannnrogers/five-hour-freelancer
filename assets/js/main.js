@@ -7,7 +7,7 @@
 $("#button-bottom").click(function() {
     $([document.documentElement, document.body]).animate({
         scrollTop: $("#email-signup").offset().top
-	}, 2000);
+	}, 1400);
 	$("#input-name").focus();
 });
 
