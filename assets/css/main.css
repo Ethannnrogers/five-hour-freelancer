@@ -243,6 +243,7 @@
 	#blog-side-bar input {
 		border: none;
 		border-radius: 0;
+		color: grey;
 		background-color: white!important;
 		width: 90%;
 		margin-left: 5%;
