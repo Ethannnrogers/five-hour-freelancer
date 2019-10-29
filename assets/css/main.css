@@ -181,6 +181,7 @@
 
 	#side-bar {
 		position: sticky;
+		position: -webkit-sticky; position: sticky;
 		top: 3%;
 		margin-top: 13em;
 		margin-bottom: 4em;
@@ -193,6 +194,7 @@
 
 	#blog-side-bar {
 		position: sticky;
+		position: -webkit-sticky; position: sticky;
 		top: 3%;
 		color: white;
 		margin-top: 13em;
@@ -207,6 +209,7 @@
 
 	#blog-side-bar-ad {
 		position: sticky;
+		position: -webkit-sticky; position: sticky;
 		top: 3%;
 		/* margin-top: 5em;
 		margin-bottom: 4em;
@@ -253,6 +256,7 @@
 
 	#side-bar-ad {
 		position: sticky;
+		position: -webkit-sticky; position: sticky;
 		top: 3%;
 		/* margin-top: 5em;
 		margin-bottom: 4em;
